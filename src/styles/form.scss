@@ -1,0 +1,14 @@
+.form_block {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+   form {
+      width: 700px;
+      margin: 40px 0 10px 0;
+
+      .form-group {
+         margin: 20px 0;
+      }
+   }
+}

@@ -1,0 +1,19 @@
+{
+  "user": {
+    "name": {
+      "name": "RRR RRr"
+    },
+    "email": {
+      "email": "labanov.st@gmail.com"
+    },
+    "phone": {
+      "tel": "+7 (555) 555-55-55"
+    },
+    "data": {
+      "data": "2022-06-01"
+    },
+    "textarea": {
+      "textarea": "555555555555"
+    }
+  }
+}
